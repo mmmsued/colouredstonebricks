@@ -15,19 +15,21 @@ Download & unzip the mod, rename it to »colouredstonebricks« and move it into 
 
 ###### Requirements
 
-- [Minetest](http://www.minetest.net) >= 5.1.0
-- default (included in the Game »[minetest_game](https://content.minetest.net/packages/Minetest/minetest_game/)«)
-- dye (included in the Game »[minetest_game](https://content.minetest.net/packages/Minetest/minetest_game/)«)
+- [Minetest](http://www.minetest.net) -- Version 5.1.0 or higher
+- Mod »default« (included in the Game »[minetest_game](https://content.minetest.net/packages/Minetest/minetest_game/)«)
+- Mod »dye« (included in the Game »[minetest_game](https://content.minetest.net/packages/Minetest/minetest_game/)«)
 
 ###### Optional depends
 
-- stairsplus (included in the mod »[moreblocks](https://content.minetest.net/packages/Calinou/moreblocks/)«)
+- Mod »stairsplus« (included in the mod »[moreblocks](https://content.minetest.net/packages/Calinou/moreblocks/)«)
 
 
 
 ## Authors
 
 **[Craig Davison](https://davison.io)**
+
+**[Norbert Thien – mmm-sued](https://minetest-modding.weebly.com/)**
 
 ## License & Credits
 
